@@ -1,0 +1,20 @@
+iniciar repositorio do git
+git init
+
+buscar arquivos no git
+git pull
+
+configurar usuario
+git congig --global user.name "DivinoSilva"
+
+configurar usuario
+git congig --global user.email "fernandinho_07@hotmail.com"
+
+configurar origem da conexão
+git remote add origin https://github.com/DivinoSilva/ToDoList
+
+atualizar Status
+git status
+
+COMMIT
+ git add "nomedoarquivo.extensão"

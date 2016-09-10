@@ -16,5 +16,5 @@ git remote add origin https://github.com/DivinoSilva/ToDoList
 atualizar Status
 git status
 
-COMMIT
- git add "nomedoarquivo.extensão"
+preparar arquivo para o projeto 
+git add "nomedoarquivo.extensão"

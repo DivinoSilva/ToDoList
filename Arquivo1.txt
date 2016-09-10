@@ -20,3 +20,6 @@ preparar arquivo para o projeto
 git add "nomedoarquivo.extensão"
 
 klççlkç
+
+
+sfdds

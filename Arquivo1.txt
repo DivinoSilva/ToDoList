@@ -5,10 +5,10 @@ buscar arquivos no git
 git pull
 
 configurar usuario
-git congig --global user.name "DivinoSilva"
+git config --global user.name "DivinoSilva"
 
 configurar usuario
-git congig --global user.email "fernandinho_07@hotmail.com"
+git config --global user.email "fernandinho_07@hotmail.com"
 
 configurar origem da conexão
 git remote add origin https://github.com/DivinoSilva/ToDoList
@@ -19,7 +19,10 @@ git status
 preparar arquivo para o projeto 
 git add "nomedoarquivo.extensão"
 
-klççlkç
+git commit -m "Mensagem sobre a alteração"
+
+Subir a alteração
+git push origin master
 
 
 sfdds
